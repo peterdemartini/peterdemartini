@@ -7,4 +7,4 @@
  
 ```
 
-I am just your friendly neighborhood programmer, with a wife, a kid and two big dogs. I'm currently working for [Terascope](http://terascope.io) building a [distrubuted processing system](https://github.com/terascope/teraslice) and a big data analytics/managment platform. In my past, I was one of the founders/enginners of [Computes Inc](https://computes.io), an engineer on the Octoblu platform at [Citrix Systems](https://www.citrix.com), before that I was software consultant.
+I am just your friendly neighborhood programmer, with a wife, a kid and two big dogs. I'm currently working for [Terascope](http://terascope.io) building a [distrubuted processing system](https://github.com/terascope/teraslice) and a big data analytics/managment platform. In the past, I was one of the founders/enginners of [Computes Inc](https://computes.io), an engineer on the Octoblu platform at [Citrix Systems](https://www.citrix.com) and before that I was software consultant.
